@@ -9,7 +9,7 @@ namespace BioTest
         public void Test1()
         {
             int a = int.Parse(Console.ReadLine());
-        }
+        } 
     }
 }
  
